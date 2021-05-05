@@ -100,4 +100,15 @@ public class MainActivity extends AppCompatActivity {
         displayTeamBScore(teamBScore);
     }
 
+    /**
+     * This method resets the scores for both team A and team B  back to zero
+     */
+    public void resetTeamScores(View view) {
+        teamAScore = 0;
+        teamBScore = 0;
+        ;
+        displayTeamAScore(teamAScore);
+        displayTeamBScore(teamBScore);
+    }
+
 }

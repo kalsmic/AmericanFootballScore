@@ -148,6 +148,7 @@
         android:layout_marginLeft="22dp"
         android:layout_marginRight="22dp"
         android:layout_marginBottom="32dp"
+        android:onClick="resetTeamScores"
         android:text="Reset" />
 
 </RelativeLayout>
