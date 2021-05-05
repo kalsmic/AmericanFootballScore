@@ -116,21 +116,25 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addOnePointsToTeamB"
                 android:text=" +6 points" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addThreePointsToTeamB"
                 android:text="+3 points" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addTwoPointsToTeamB"
                 android:text=" +2 points" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addOnePointsToTeamB"
                 android:text="+1 points" />
         </LinearLayout>
 
