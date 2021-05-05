@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
      * This method adds 1 point to Team A when an extra point is earned
      * when team A kicks through the uprights after a touchdown
      */
-    public void addOnePointsToTeamA(View view) {
+    public void addOnePointToTeamA(View view) {
         teamAScore += 1;
         displayTeamAScore(teamAScore);
     }
@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
      * This method adds 1 point to Team B when an extra point is earned
      * when team A kicks through the uprights after a touchdown
      */
-    public void addOnePointsToTeamB(View view) {
+    public void addOnePointToTeamB(View view) {
         teamBScore += 1;
         displayTeamBScore(teamBScore);
     }

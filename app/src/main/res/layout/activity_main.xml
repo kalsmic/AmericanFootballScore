@@ -65,8 +65,8 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="addOnePointsToTeamA"
-                android:text="+1 points" />
+                android:onClick="addOnePointToTeamA"
+                android:text="+1 point" />
 
 
         </LinearLayout>
@@ -134,8 +134,8 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="addOnePointsToTeamB"
-                android:text="+1 points" />
+                android:onClick="addOnePointToTeamB"
+                android:text="+1 point" />
         </LinearLayout>
 
     </LinearLayout>
