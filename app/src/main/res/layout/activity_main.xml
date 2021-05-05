@@ -47,21 +47,25 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addSixPointsToTeamA"
                 android:text=" +6 points" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addThreePointsToTeamA"
                 android:text="+3 points" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addTwoPointsToTeamA"
                 android:text=" +2 points" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="addOnePointsToTeamA"
                 android:text="+1 points" />
 
 
