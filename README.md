@@ -1,7 +1,7 @@
 American Football Score App
 ==========================================
 
-Keeps track of american football scores for two teams. This project has been built to solve the challenge in the Used in the [Android Basics by Google Nanodegree Program](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+Keeps track of american football scores for two teams. This project has been built to solve the challenge in the [Android Basics by Google Nanodegree Program](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 
 Pre-requisites
