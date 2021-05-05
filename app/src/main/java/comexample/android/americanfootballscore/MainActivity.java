@@ -106,7 +106,6 @@ public class MainActivity extends AppCompatActivity {
     public void resetTeamScores(View view) {
         teamAScore = 0;
         teamBScore = 0;
-        ;
         displayTeamAScore(teamAScore);
         displayTeamBScore(teamBScore);
     }
