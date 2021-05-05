@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method displays scores for team A
+     * This method displays scores for team B
      */
     public void displayTeamBScore(int score) {
         TextView scoreView = (TextView) findViewById(R.id.team_b_score);
@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void addSixPointsToTeamB(View view) {
         teamBScore += 6;
-        displayTeamAScore(teamBScore);
+        displayTeamBScore(teamBScore);
     }
 
     /**
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void addThreePointsToTeamB(View view) {
         teamBScore += 3;
-        displayTeamAScore(teamBScore);
+        displayTeamBScore(teamBScore);
     }
 
     /**
